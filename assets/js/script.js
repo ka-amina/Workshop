@@ -20,5 +20,5 @@ navToggle.addEventListener("click", function () {
     body.style.overflow = "hidden";
   }
 
-  
+  ..
 });

@@ -19,6 +19,5 @@ navToggle.addEventListener("click", function () {
     this.setAttribute("aria-expanded", "true");
     body.style.overflow = "hidden";
   }
-
-  ..
+  
 });
